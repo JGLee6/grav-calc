@@ -28,6 +28,21 @@ translations coming soon. This allows us to compute the interactions in an
 entirely different and often useful perspective. This portion is based largely 
 on the private FORTRAN code of Prof. Adelberger, MULTIN.
 
+## References
+https://github.com/4kbt/PointGravity
+[A Sub-Millimeter Parallel-Plate Test of Gravity][1]
+[Translation of multipoles for a 1/r potential][2]
+[Interaction potential between extended bodies][3]
+[Recursive computation of spherical harmonic rotation coefficients of large degree][4]
+[Multipole calculation of gravitational forces][5]
+
+
+[1]: https://digital.lib.washington.edu/researchworks/handle/1773/34135
+[2]: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.55.7970
+[3]: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.60.107501
+[4]: https://arxiv.org/abs/1403.7698
+[5]: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.124059
+
 
 ## To Do
 - [X] Multipole rotations
